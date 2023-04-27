@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+
+.gridcontent {
+  width: 8.33%;
+  height: 100%;
+  float: left;
+}
+
+/*# sourceMappingURL=style.css.map */
